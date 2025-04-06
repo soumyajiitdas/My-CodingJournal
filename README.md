@@ -1,4 +1,4 @@
-# 🚀 My-CodingJournal
+# 📑 My-CodingJournal 🚀
 <p>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
   <img src="https://img.shields.io/badge/Language-Python-blue.svg" />
@@ -8,25 +8,27 @@
   <img src="https://img.shields.io/badge/Database-MySQL-blueviolet.svg" />
   <img src="https://img.shields.io/github/last-commit/Soumyajit4119/My-CoadingJournal" />
 </p>
-<p>
-  <em>“Track the grind. Trust the process. Build the future.”</em>
-</p>
-A personal coding log to document my journey through problem-solving, software projects, and lifelong learning in Computer Science.
 
----
+<br>
 
-## 🧩 About This Repository
+> “Track the grind. Trust the process. Build the future.”
 
-`MyCodingJournal` is a **daily code journal and learning vault** designed to track my personal growth in software development. This isn't just about solving problems — it's about building habits, reflecting on progress, and documenting everything that gets me closer to becoming a well-rounded developer.
+**📌 A personal coding log to document my journey through problem-solving, software projects, and lifelong learning in Computer Science.**
+
+<br>
+
+## ✒️ About This Repository
+
+`My-CodingJournal` is a **daily code journal and learning vault** designed to track my personal growth in software development. This isn't just about solving problems — it's about building habits, reflecting on progress, and documenting everything that gets me closer to becoming a well-rounded developer.
 
 Whether I'm diving into algorithms, building passion projects, taking notes from courses, or exploring ML and Web Dev — it's all here.
 
----
+<br>
 
 ## 🗂️ Folder Structure
 
 ```
-MyCodingJournal/
+My-CodingJournal/
 │
 ├── 📁 DSA/           → Slutions of Data Structures & Algorithms problems
 ├── 📁 WebDev/        → HTML, CSS, JS, and frameworks practice
@@ -36,7 +38,8 @@ MyCodingJournal/
 └── 📁 DailyLogs/     → Brief journal of daily coding activities <will start soon...>
 ```
 Each folder is structured to grow over time as I continue learning.
----
+
+<br>
 
 ## 📅 Daily Log
 
@@ -47,7 +50,8 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-08 | Took notes on Git and branching strategies    | `Notes/git-notes.md`  |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
----
+
+<br>
 
 ## 🎯 Goals & Milestones
 
@@ -60,7 +64,7 @@ Each folder is structured to grow over time as I continue learning.
 | 🔲     | Deploy 1 ML project                         |
 | 🔲     | Explore Open Source contributions           |
 
----
+<br>
 
 ## 🛠️ How to Use This Repo
 
@@ -86,7 +90,7 @@ git commit -m "Solved basic stack implementation problem"
 git push origin main
 ```
 
----
+<br>
 
 ## 🧠 Why This Journal?
 
@@ -99,7 +103,7 @@ This journal is not about perfection — it’s about showing up daily to get 1%
 - 🧰 Central repo for **notes, code & logs**
 - 💼 Builds a **strong public portfolio**
 
----
+<br>
 
 ## 💡 Things I’ll Include Over Time
 
@@ -109,25 +113,24 @@ This journal is not about perfection — it’s about showing up daily to get 1%
 - 📈 Progress trackers (e.g., LeetCode, GitHub Stats).
 - 📌 Learning challenges (30-day challenges, bootcamps).
 
----
+<br>
 
 ## 🤝 Contribute or Collaborate?
 
 This repo is personal, but open for learning and collaboration!
 Feel free to fork it, open issues, or share how you’re journaling your own coding progress.
 
----
+<br>
 
 ## 📜 License
 
 This repository is shared for educational purposes under [MIT License](LICENSE).  
 Fork it to start your own coding journal — just make it **yours**.
 
----
+<br>
 
-<p>
-  <em>“Tiny improvements daily lead to stunning results eventually.”
-</p>
+> “Tiny improvements daily lead to stunning results eventually.”
 
-**Built with ❤️, caffeine, and a passion for code.**
+**🔖 Built with consistency, curiosity, and code.**
+
 ---
