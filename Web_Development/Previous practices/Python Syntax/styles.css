@@ -1,0 +1,53 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10;
+
+}
+#myid {
+    background-color: rgb(253, 253, 253);
+    padding: 25;
+    margin-bottom: 12;
+    border-radius: 12px;
+}
+
+
+h1 {
+    font-size: 15pt;
+    color: black;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+hr {
+    width: 400;
+    height: 1;
+    background-color: black;
+}
+
+
+table {
+    width: 100%;
+    font-size: 20px;
+}
+table, td, th {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    border-collapse: collapse;
+    padding: 10;
+}
+tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+td:hover {
+    background-color: rgb(217, 255, 217);
+}
+th {
+    background-color: #04AA6D;
+    color: white;
+    }

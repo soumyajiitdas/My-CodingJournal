@@ -1,0 +1,159 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+
+}
+
+
+.img-circle {
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+
+.section {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+
+#header {
+    background-color: rgba(69, 69, 244, 0.931);
+    background-size: cover;
+}
+#header img {
+    display: block;
+    width: 110px;
+    height: 110px;
+    margin: auto;
+}
+#header h1 {
+    font-size: 25pt;
+    color: white;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 15pt;
+    color: rgba(69, 69, 244, 0.931);
+    text-align: left;
+    margin: 0 0 10px 0;
+}
+
+
+hr {
+    height: 1px;
+    background-color: rgba(69, 69, 244, 0.931);
+}
+
+
+li {
+    font-size: 15pt;
+}
+li i {
+    font-size: 18px;
+    padding: 28px;
+}
+
+
+table {
+    width: 100%;
+    font-size: 20px;
+}
+table, td, th {
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    border-collapse: collapse;
+    padding: 10;
+}
+tr:nth-child(even) {
+    background-color: #f1f1f1;
+}
+td:hover {
+    background-color: rgba(56, 181, 166, 0.1);
+}
+th {
+    background-color: #3fb679;
+    color: white;
+    }
+
+
+progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #efefef;
+}
+progress::-webkit-progress-bar {
+    background: #efefef;
+}
+progress::-webkit-progress-value {
+    background: #3fb6b2;
+}
+progress::-moz-progress-bar {
+    color: #3fb6b2;
+    background: #efefef;
+}
+
+
+ins a {
+    font-size: 19px;
+    color: black;
+}
+ins small {
+    font-size: 10px;
+}
+
+form {
+    text-align: center;
+    margin-top: 0;
+}
+.submit {
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+.submit:hover {
+    background-color: #43a09d;
+}
+textarea {
+    height: 100px;
+}
+input, textarea {
+    margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+
+
+.social {
+    text-align: center;
+}
+.social a {
+    color: black;
+    font-weight: bold;
+}
