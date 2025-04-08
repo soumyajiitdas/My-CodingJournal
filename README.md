@@ -30,12 +30,21 @@ Whether I'm diving into algorithms, building passion projects, taking notes from
 ```
 My-CodingJournal/
 │
-├── 📁 DSA/           → Slutions of Data Structures & Algorithms problems
-├── 📁 WebDev/        → HTML, CSS, JS, and frameworks practice
-├── 📁 Projects/      → Personal and mini-projects
-├── 📁 Notes/         → Technical notes, cheatsheets, references
+├── 📂 DSA_Practices/           → Slutions of Data Structures & Algorithms problems
+|     ├── 📁 GfG  
+|     ├── 📁 HackerRank  
+|     └── 📁 LeetCode
+├── 📂 Programming_Languages/      → lang syntax notes, basic problems with mini-projects
+|     ├── 📁 C  
+|     ├── 📁 Java  
+|     ├── 📁 Python  
+|     └── 📁 SQL 
+📁 Web_Development                → HTML, CSS, JS, and frameworks practice
+|     ├── 📁 BackEnd  
+|     ├── 📁 FrontEnd  
+|     └── 📁 Previous practices        
+├── 📁 Notes/         → Technical notes, cheatsheets, references <will upload soon...>
 ├── 📁 ML/            → Machine Learning & AI exploration <will start soon...>
-└── 📁 DailyLogs/     → Brief journal of daily coding activities <will start soon...>
 ```
 Each folder is structured to grow over time as I continue learning.
 
@@ -49,7 +58,7 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-07 | Built a CLI-based to-do list project          | `Projects/cli-todo/`  |
 | 2025-04-08 | Took notes on Git and branching strategies    | `Notes/git-notes.md`  |
 
-> 🔁 I will keep this table updated — it's my trail of consistency.
+> 🔁 I will keep this table updated(f: 2 days) — it's my trail of consistency.
 
 <br>
 
