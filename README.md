@@ -43,8 +43,8 @@ My-CodingJournal/
 |     ├── 📁 BackEnd  
 |     ├── 📁 FrontEnd  
 |     └── 📁 Previous practices        
-├── 📁 Notes/         → Technical notes, cheatsheets, references <will upload soon...>
-├── 📁 ML/            → Machine Learning & AI exploration <will start soon...>
+├── 📁 Notes/                    → Technical notes, cheatsheets, references <will upload soon...>
+├── 📁 ML/                       → Machine Learning & AI exploration <will start soon...>
 ```
 Each folder is structured to grow over time as I continue learning.
 
@@ -52,26 +52,32 @@ Each folder is structured to grow over time as I continue learning.
 
 ## 📅 Daily Log
 
-| Date       | Activity                                      | Location              |
-|------------|-----------------------------------------------|-----------------------|
-| 2025-04-06 | Solved array rotation problem                 | `DSA/arrays.py`       |
-| 2025-04-07 | Built a CLI-based to-do list project          | `Projects/cli-todo/`  |
-| 2025-04-08 | Took notes on Git and branching strategies    | `Notes/git-notes.md`  |
+| Date       | Activity                                             | Location                   |
+|------------|------------------------------------------------------|----------------------------|
+| 2025-04-07 | Created this repo and added `readme.md` file         | `My-CodingJournal/`        |
+| 2025-04-07 | Solved sorting, min-max, data-structures probs in C  | `Programming_lang/C/`      |
+| 2025-04-07 | Solve 7 basic problems in Python                     | `Programming_lang/Python/` |
+| 2025-04-07 | Solved 3 java OOP problems                           | `Programming_lang/Java/`   |
+| 2025-04-07 | Applied basic quearies on a database in MySQL        | `Programming_lang/SQL/`    |
+| 2025-04-08 | Solved activity answers from Python Crash Course book| `Programming_lang/Python/` |
+| 2025-04-08 | Solved 3 basic python problems in HAckerRank         | `DSA_Practice/HackerRank/` |
+| 2025-04-09 | Solved 3 problems & improved TC, SC of 1 problem     | `DSA_Practice/HackerRank/` |
+| 2025-04-09 | Solved 4 more python problems in Hackerrank          | `DSA_Practice/HackerRank/` |
 
-> 🔁 I will keep this table updated(f: 2 days) — it's my trail of consistency.
+> 🔁 I will keep this table updated — it's my trail of consistency.
 
 <br>
 
 ## 🎯 Goals & Milestones
 
-| Status | Objective                                  |
+| Status | Objective                                   |
 |--------|---------------------------------------------|
 | ✅     | Create this coding journal on GitHub        |
 | 🔲     | Complete Striver's DSA Sheet                |
 | 🔲     | Solve 100+ DSA problems                     |
 | 🔲     | Build 5+ projects                           |
-| 🔲     | Deploy 1 ML project                         |
-| 🔲     | Explore Open Source contributions           |
+| 🔲     | Deploy google gen ai capstone project       |
+| 🔲     | Explore full stack development              |
 
 <br>
 
