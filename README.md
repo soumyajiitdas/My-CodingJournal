@@ -30,7 +30,7 @@ Whether I'm diving into algorithms, building passion projects, taking notes from
 ```
 My-CodingJournal/
 │
-├── 📂 DSA_Practices/           → Slutions of Data Structures & Algorithms problems
+├── 📂 DSA_Practices/              → Solutions of Data Structures & Algorithms problems
 |     ├── 📁 GfG  
 |     ├── 📁 HackerRank  
 |     └── 📁 LeetCode
@@ -39,12 +39,12 @@ My-CodingJournal/
 |     ├── 📁 Java  
 |     ├── 📁 Python  
 |     └── 📁 SQL 
-📁 Web_Development                → HTML, CSS, JS, and frameworks practice
+├── 📁 Web_Development             → HTML, CSS, JS, and frameworks practice
 |     ├── 📁 BackEnd  
 |     ├── 📁 FrontEnd  
 |     └── 📁 Previous practices        
-├── 📁 Notes/                    → Technical notes, cheatsheets, references <will upload soon...>
-├── 📁 ML/                       → Machine Learning & AI exploration <will start soon...>
+├── 📁 ML/                         → Machine Learning & AI exploration <will start soon...>
+├── 📁 Notes/                      → Technical notes, cheat-sheets, references <will upload soon...>
 ```
 Each folder is structured to grow over time as I continue learning.
 
@@ -55,14 +55,16 @@ Each folder is structured to grow over time as I continue learning.
 | Date       | Activity                                             | Location                   |
 |------------|------------------------------------------------------|----------------------------|
 | 2025-04-07 | Created this repo and added `readme.md` file         | `My-CodingJournal/`        |
-| 2025-04-07 | Solved sorting, min-max, data-structures probs in C  | `Programming_lang/C/`      |
+| 2025-04-07 | Solved sorting, min-max, data-struct problems in C   | `Programming_lang/C/`      |
 | 2025-04-07 | Solve 7 basic problems in Python                     | `Programming_lang/Python/` |
 | 2025-04-07 | Solved 3 java OOP problems                           | `Programming_lang/Java/`   |
-| 2025-04-07 | Applied basic quearies on a database in MySQL        | `Programming_lang/SQL/`    |
+| 2025-04-07 | Applied basic queries on a database in MySQL         | `Programming_lang/SQL/`    |
 | 2025-04-08 | Solved activity answers from Python Crash Course book| `Programming_lang/Python/` |
 | 2025-04-08 | Solved 3 basic python problems in HAckerRank         | `DSA_Practice/HackerRank/` |
 | 2025-04-09 | Solved 3 problems & improved TC, SC of 1 problem     | `DSA_Practice/HackerRank/` |
-| 2025-04-09 | Solved 4 more python problems in Hackerrank          | `DSA_Practice/HackerRank/` |
+| 2025-04-09 | Solved 4 more python problems in HackerRank          | `DSA_Practice/HackerRank/` |
+| 2025-04-10 | Solved 3 DSA problems in GfG and created pattern(CSS)| `DSA_Practice` & `Web_dev` |
+| 2025-04-11 | Solved 3 DSA problems (array, string and recursion)  | `DSA_Practice/GfG/`        |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
@@ -126,14 +128,14 @@ This journal is not about perfection — it’s about showing up daily to get 1%
 - 📘 Notes on topics (e.g., OS, DBMS, CN).
 - 🧪 Project experiments (APIs, web, AI, etc.).
 - 📈 Progress trackers (e.g., LeetCode, GitHub Stats).
-- 📌 Learning challenges (30-day challenges, bootcamps).
+- 📌 Learning challenges (30-day challenges, boot-camps).
 
 <br>
 
 ## 🤝 Contribute or Collaborate?
 
 This repo is personal, but open for learning and collaboration!
-Feel free to fork it, open issues, or share how you’re journaling your own coding progress.
+Feel free to fork it, open issues, or share how you’re documenting your own coding progress.
 
 <br>
 
