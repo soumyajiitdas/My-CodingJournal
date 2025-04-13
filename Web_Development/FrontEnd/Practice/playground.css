@@ -6,7 +6,7 @@ header {
 }
 
 main {
-    height: 610px;
+    height: 750px;
     background-color: azure;
 }
 
@@ -14,11 +14,46 @@ h2 {
     margin-left: 20px;
     margin-top: 12px;
     margin-bottom: 7px;
+    text-decoration: underline;
+}
+
+#navbar {
+    margin-left: 12px;
+    padding-top: 3px;
+    padding-left: 15px;
+    height: 60px;
+    background-color: #0f1111;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    background-color: #f08804;
+}
+
+.sub_element {
+    height: 70px;
+    width: 70px;
+    margin: 30px;
+    padding: 25px;
+    display: inline-block;
+    background-image: url(images/demo.png);
+    background-size: cover;
+
 }
 
 #light {
     background-color: black;
-    margin-left: 15px;
+    margin-left: 270px;
     width: 145px;
     border: 3px solid brown;
     border-radius: 6%;
@@ -50,14 +85,6 @@ h2 {
 
 #three {
     background-color: green;
-}
-
-#web_head {
-    margin-left: 12px;
-    height: 75px;
-    background-color: rgb(12, 10, 10);
-    color: white;
-    text-align: center;
 }
 
 p {

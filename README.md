@@ -65,6 +65,7 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-09 | Solved 4 more python problems in HackerRank          | `DSA_Practice/HackerRank/` |
 | 2025-04-10 | Solved 3 DSA problems in GfG and created pattern(CSS)| `DSA_Practice` & `Web_dev` |
 | 2025-04-11 | Solved 3 DSA problems (array, string and recursion)  | `DSA_Practice/GfG/`        |
+| 2025-04-13 | Created a navbar design & set bg image in a div(CSS) | `Web_Development/FrontEnd` |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
