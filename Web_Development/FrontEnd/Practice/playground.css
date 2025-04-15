@@ -40,10 +40,17 @@ button {
     background-color: #f08804;
 }
 
+h5 {
+    display: inline-block;
+    margin-right: 60px;
+    margin-bottom: 5px;
+    padding-left: 33px;
+}
+
 .sub_element {
     height: 70px;
     width: 70px;
-    margin: 30px;
+    margin-left: 30px;
     padding: 25px;
     display: inline-block;
     background-image: url(images/demo.png);
@@ -87,15 +94,10 @@ button {
     background-color: green;
 }
 
-p {
-    margin-top: 1px;
-    padding-top: 23px;
-}
-
 footer {
-    height: 100px;
-    padding: 1px;
-    background-color: rgb(147, 147, 164);
+    height: 90px;
+    padding: 10px;
+    background-color: rgb(160, 160, 160);
     text-align: center;
     font-weight: lighter;
 }
