@@ -11,10 +11,8 @@
 
 <br>
 
-> “Track the grind. Trust the process. Build the future.”
-
 **📌 A personal coding log to document my journey through problem-solving, software projects, and lifelong learning in Computer Science.**
-
+> “Track the grind. Trust the process. Build the future.”
 <br>
 
 ## ✒️ About This Repository
@@ -66,21 +64,39 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-10 | Solved 3 DSA problems in GfG and created pattern(CSS)| `DSA_Practice` & `Web_dev` |
 | 2025-04-11 | Solved 3 DSA problems (array, string and recursion)  | `DSA_Practice/GfG/`        |
 | 2025-04-13 | Created a navbar design & set bg image in a div(CSS) | `Web_Development/FrontEnd` |
+| 2025-04-15 | Added a CSS playground on position attribute for demo| `Web_Development/FrontEnd` |
+| 2025-04-19 | Completed sorting algorithms from strivers DSA course| `DSA_Practice/StriversDSA/`|
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
 <br>
 
 ## 🎯 Goals & Milestones
+```Weekly Milestones:-```
 
-| Status | Objective                                   |
-|--------|---------------------------------------------|
-| ✅     | Create this coding journal on GitHub        |
-| 🔲     | Complete Striver's DSA Sheet                |
-| 🔲     | Solve 100+ DSA problems                     |
-| 🔲     | Build 5+ projects                           |
-| 🔲     | Deploy google gen ai capstone project       |
-| 🔲     | Explore full stack development              |
+|Objective                 | Progress 
+|--------------------------|--------------------------------------------|
+|📑 Strivers DSA Course    | 🟢🟡⚪⚪⚪⚪⚪ (1.5/12 Hours this week)|
+|🧠 DSA Problem Solving    | 🟢🟢🟡⚪⚪⚪⚪(3/6 Days this week)     |
+|📔 DBMS/CN Study          | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)    |
+|🔗 Explore Full Stack Dev | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)    |
+|📁 GitHub Daily logs      | 🟢🟢🟢🟡⚪⚪ (3/7 Commits this week)   |
+
+```Yearly Goals :-```
+
+▶ 🤖 GenAI Capstone Project | 🟢🟢🟢🟡⚪⚪⚪⚪⚪⚪ (35% Completed)
+|----------------------------|--------------------------------------------|
+
+▶ 🐍 Solve 100+ DSA problems  | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (21% Completed)
+|------------------------------|------------------------------------------|
+
+▶ ⚙️ Build 5+ projects        | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (3% Completed)
+|------------------------------|------------------------------------------|
+
+▷ 📱 Create this Coding Journal on GitHub | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (100% Completed)
+|------------------------------------------|--------------------------------------------|
+
+
 
 <br>
 
