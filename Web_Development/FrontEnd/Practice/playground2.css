@@ -6,10 +6,10 @@ header {
 }
 
 
-main {
-    /* height: 2600px;*/            /* to uncomment footer, uncomment hight also */
+/* main {
+    height: 2600px;
     background-color: azure;
-}
+} */                                 /* if you uncomment footer, uncomment this also... */
 
 pre {
     text-align: center;
@@ -19,35 +19,35 @@ pre {
 }
 
 div {
-    height: 90px;
-    width: 90px;
+    height: 80px;
+    width: 110px;
     margin: 20px;
-    padding: 20px;
+    padding: 10px;
     border: 2px solid black;
 }
 
 #one {
     background-color: rgb(255, 91, 91);
-    position: relative;      /* didn't remove from the flow */
+    position: relative;               /* didn't remove from the flow */
     top: 5px;
-    z-index: 1;             /* due to z-index, box 1 always on top of box 4 */
+    z-index: 1;                       /* due to higher z-index, box 1 always on top of box 4 */
 }
 #two {
     background-color: rgb(155, 155, 249);
-    position: absolute;       /* remove from the flow. (mostly used for header and footer) */
+    position: absolute;               /* remove from the flow. (mostly used for header and footer) */
     top: 80px;
     right: 0px;
-    z-index: 1;               /* due to z-index, box 2 always on top of box 3 */
+    z-index: 1;                       /* due to higher z-index, box 2 always on top of box 3 */
 }
 #three {
     background-color: rgb(255, 195, 131);
-    position: fixed;         /* removed from the flow */
+    position: fixed;                  /* removed from the flow */
     top: 85px;
     right: 0px;
 }
 #four {
     background-color: rgb(244, 244, 42);
-    position: sticky;               /* didn't remove from the flow until, it reached its desired destination */
+    position: sticky;                 /* didn't remove from the flow until, it reached its desired destination */
     top: 630px;
 }
 

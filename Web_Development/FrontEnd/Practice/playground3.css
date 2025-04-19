@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+
+header {
+    height: 90px;
+    padding: 1px;
+    background-color: rgb(162, 206, 162);
+}
+
+/* main {
+    height: 2600px;
+    background-color: azure;
+} */                           /* if you uncomment footer, uncomment this also... */
+
+pre {
+    margin: 1px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    margin: 1px;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+#container {
+    height: 200px;
+    width: 800px;
+    margin: 25px;
+    padding: 25px;
+    background-color: azure;
+    display: flex;              /* default --> flex-direction: row; */
+    justify-content: center;    /* control alignment w.r.t. main axis */
+}
+
+#one {
+    background-color: rgb(248, 195, 195);
+}
+
+#two {
+    background-color: rgb(242, 247, 195);
+}
+
+#three {
+    background-color: rgb(193, 218, 233);
+}
+
+#four {
+    background-color: rgb(221, 189, 239);
+}
+
+#five {
+    background-color: rgb(172, 244, 244);
+}
+
+/* footer {
+    height: 100px;
+    padding: 1px;
+    background-color: rgb(147, 147, 164);
+    font-weight: lighter;
+    
+} */
