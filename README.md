@@ -31,18 +31,20 @@ My-CodingJournal/
 ├── 📂 DSA_Practices/              → Solutions of Data Structures & Algorithms problems
 |     ├── 📁 GfG  
 |     ├── 📁 HackerRank  
-|     └── 📁 LeetCode
+|     ├── 📁 LeetCode
+|     └── 📁 Striver's DSA Course
 ├── 📂 Programming_Languages/      → lang syntax notes, basic problems with mini-projects
 |     ├── 📁 C  
 |     ├── 📁 Java  
-|     ├── 📁 Python  
-|     └── 📁 SQL 
-├── 📁 Web_Development             → HTML, CSS, JS, and frameworks practice
+|     └── 📁 Python  
+├── 📂 SQL                         → Solutions of SQL problems & Database design with ER Diagram
+|     ├── MySQL
+|     └── Practice Problems
+├── 📂 Web_Development             → HTML, CSS, JS, and frameworks practice
 |     ├── 📁 BackEnd  
 |     ├── 📁 FrontEnd  
-|     └── 📁 Previous practices        
-├── 📁 ML/                         → Machine Learning & AI exploration <will start soon...>
-├── 📁 Notes/                      → Technical notes, cheat-sheets, references <will upload soon...>
+|     └── 📁 Previous practices
+├── 📂 Notes/                      → Technical notes, cheat-sheets, references <I'll upload soon...>
 ```
 Each folder is structured to grow over time as I continue learning.
 
@@ -66,6 +68,7 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-13 | Created a navbar design & set bg image in a div(CSS) | `Web_Development/FrontEnd` |
 | 2025-04-15 | Added a CSS playground on position attribute for demo| `Web_Development/FrontEnd` |
 | 2025-04-19 | Completed sorting algorithms from strivers DSA course| `DSA_Practice/StriversDSA/`|
+| 2025-04-21 | Completed a Gen-AI project - Mental Health Assistant | `My-GenAICapstoneProject/` |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
@@ -76,25 +79,28 @@ Each folder is structured to grow over time as I continue learning.
 
 |Objective                 | Progress 
 |--------------------------|--------------------------------------------|
-|📑 Strivers DSA Course    | 🟢🟡⚪⚪⚪⚪⚪ (1.5/12 Hours this week)|
-|🧠 DSA Problem Solving    | 🟢🟢🟡⚪⚪⚪⚪(3/6 Days this week)     |
-|📔 DBMS/CN Study          | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)    |
-|🔗 Explore Full Stack Dev | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)    |
-|📁 GitHub Daily logs      | 🟢🟢🟢🟡⚪⚪ (3/7 Commits this week)   |
+|📑 Strivers DSA Course    | 🟡⚪⚪⚪⚪⚪⚪ (0/12 Hours this week)  |
+|🧠 DSA Problem Solving    | 🟡⚪⚪⚪⚪⚪⚪(0/7 Days this week)     |
+|📕 DBMS/CN Study          | 🟡⚪⚪⚪⚪⚪⚪(0/10 Hour this Week)    |
+|🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(0/10 Hour this Week)    |
+|📁 GitHub Daily logs      | 🟢🟡⚪⚪⚪⚪⚪ (2/14 Commits this week)|
 
 ```Yearly Goals :-```
 
-▶ 🤖 GenAI Capstone Project | 🟢🟢🟢🟡⚪⚪⚪⚪⚪⚪ (35% Completed)
-|----------------------------|--------------------------------------------|
+🧮 Solve 100+ DSA problems  | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (21% Completed)
+----------------------------|-------------------------------------------
 
-▶ 🐍 Solve 100+ DSA problems  | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (21% Completed)
-|------------------------------|------------------------------------------|
+📝 Write 200+ learning logs  | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (7% Completed)
+-----------------------------|-------------------------------------------
 
-▶ ⚙️ Build 5+ projects        | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (3% Completed)
-|------------------------------|------------------------------------------|
+🧑🏻‍💻 Build 5+ projects        | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (20% Completed)
+----------------------------|-------------------------------------------
 
-▷ 📱 Create this Coding Journal on GitHub | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (100% Completed)
-|------------------------------------------|--------------------------------------------|
+🤖 B̶u̶i̶l̶d̶ a̶ G̶e̶n̶A̶I̶ C̶a̶p̶s̶t̶o̶n̶e̶ P̶r̶o̶j̶e̶c̶t̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+----------------------------------|--------------------------------------------
+
+📱 C̶r̶e̶a̶t̶e̶ ̶t̶h̶i̶s̶ ̶C̶o̶d̶i̶n̶g̶ ̶J̶o̶u̶r̶n̶a̶l̶ ̶o̶n̶ ̶G̶i̶t̶H̶u̶b̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+----------------------------------------|--------------------------------------------
 
 
 
