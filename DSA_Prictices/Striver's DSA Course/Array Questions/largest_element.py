@@ -1,12 +1,12 @@
 ## find the largest element in an array:
 
 ## Brute-force approach:
-def brute_largest_element(arr):
+def brute_largest_element(arr):      # TC - O(nlogn), SC - O(1)
     arr.sort()
     x = arr[-1]
     return x
 
-## Optimal approach:
+## Optimal approach:              # TC - O(n) 
 def largest_element(arr):
     largest = arr[0]
     for i in arr:

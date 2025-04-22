@@ -1,33 +1,23 @@
-## move all zeros to the end of the array:
+## remove duplicate elements from a sorted array and return the size of the array:
 
-## brute-force approach;
-def brute_move_zeros(arr):
-    temp = []
-    for i in arr:
-        if i != 0:
-            temp.append(i)
-
-    temp_size = len(temp)
-    for i in range(temp_size):
-        arr[i] = temp[i]
-
-    n = len(arr)
-    for i in range(temp_size, n):
-        arr[i] = 0
-
-## Optimal approach:
-def move_zeros(arr):
-    n = len(arr)
-    j = -1
+## Brute-force approach:
+def brute_remove_dupes(arr):       # TC - O(2n), SC - O(n)
+    temp = list(set(arr))
+    n = len(temp)
     for i in range(n):
-        if arr[i] == 0:
-            j = i
-            break    
-    for i in range(j+1, n):
-        if arr[i] != 0:
-            arr[i], arr[j] = arr[j], arr[i]
-            j += 1
+        arr[i] = temp[i]
+    return n
+
+## Optimal approach
+def remove_dupes(arr):             # TC - O(n), SC - O(1)
+    n = len(arr)
+    i = 0
+    for j in range(1, n):
+        if arr[j] != arr[i]:
+            arr[i+1] = arr[j]
+            i += 1
+    return i+1
 
 arr = list(map(int, input("Enter the array: ").split()))
-move_zeros(arr)
-print(arr)
+x = remove_dupes(arr)
+print(x, arr)

@@ -1,7 +1,7 @@
 ## find the second largest element in an array:
 
 ## Brute-force approach:
-def brute_second_largest(arr):
+def brute_second_largest(arr):    # TC - O(n+nlogn), SC - O(1)
     arr.sort()
     large_el = arr[-1]
     sec_large_el = arr[0]
@@ -11,7 +11,7 @@ def brute_second_largest(arr):
     return sec_large_el
 
 ## Better approach:
-def better_second_largest(arr):
+def better_second_largest(arr):                    # TC - O(2n)
     large = sec_large = float('-inf')
     for i in arr:
         if i > large:
@@ -22,7 +22,7 @@ def better_second_largest(arr):
     return sec_large
 
 ## Optimal approach:
-def second_largest(arr):
+def second_largest(arr):                                              # TC - O(n)
     largest_element = second_largest_element = float('-inf')
     for i in arr:
         if i > largest_element:

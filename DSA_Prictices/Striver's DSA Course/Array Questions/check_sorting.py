@@ -1,5 +1,5 @@
 ## check if the array is sorted or not:
-def isSorted(arr):
+def isSorted(arr):          # TC - O(n), SC - O(1)
     n = len(arr) 
     for i in range(1, n):
         if arr[i] < arr[i-1]:

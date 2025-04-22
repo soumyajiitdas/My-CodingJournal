@@ -1,5 +1,5 @@
 ## perform a linear search in an array:
-def linearSearch(arr, key):
+def linearSearch(arr, key):     # TC - O(n), SC - O(1)
     n = len(arr)
     for i in range(n):
         if arr[i] == key:
