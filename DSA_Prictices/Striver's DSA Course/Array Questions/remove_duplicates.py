@@ -1,15 +1,16 @@
 ## remove duplicate elements from a sorted array and return the size of the array:
 
 ## Brute-force approach:
-def brute_remove_dupes(arr):       # TC - O(3n), SC - O(n)
-    temp = list(set(arr))
-    n = len(temp)
-    for i in range(n):
-        arr[i] = temp[i]
-    return n
+def brute_removeDupes(arr):       # TC - O(2n), SC - O(n)
+    temp = set(arr)
+    j = 0 
+    for i in temp:
+        arr[j] = i
+        j += 1
+    return j
 
-## Optimal approach
-def remove_dupes(arr):             # TC - O(n), SC - O(1)
+## Optimal approach (for sorted array only):
+def removeDupes(arr):             # TC - O(n), SC - O(1)
     n = len(arr)
     i = 0
     for j in range(1, n):
@@ -19,5 +20,5 @@ def remove_dupes(arr):             # TC - O(n), SC - O(1)
     return i+1
 
 arr = list(map(int, input("Enter an array: ").split()))
-x = remove_dupes(arr)
+x = brute_removeDupes(arr)
 print(x, arr)

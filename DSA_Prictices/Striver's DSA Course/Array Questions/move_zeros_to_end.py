@@ -1,7 +1,7 @@
 ## move all zeros to the end of the array:
 
 ## brute-force approach;
-def brute_move_zeros(arr):    # TC - O(2n), SC - O(n) for worst case
+def brute_moveZerosToEnd(arr):    # TC - O(2n), SC - O(n) for worst case
     temp = []
     for i in arr:
         if i != 0:
@@ -16,7 +16,7 @@ def brute_move_zeros(arr):    # TC - O(2n), SC - O(n) for worst case
         arr[i] = 0
 
 ## Optimal approach:
-def move_zeros(arr):     # TC - O(n), SC - O(1)
+def moveZerosToEnd(arr):     # TC - O(n), SC - O(1)
     n = len(arr)
     j = -1
     for i in range(n):
@@ -29,5 +29,5 @@ def move_zeros(arr):     # TC - O(n), SC - O(1)
             j += 1
 
 arr = list(map(int, input("Enter an array: ").split()))
-move_zeros(arr)
+moveZerosToEnd(arr)
 print(arr)

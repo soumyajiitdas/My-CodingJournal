@@ -69,6 +69,9 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-15 | Added a CSS playground on position attribute for demo| `Web_Development/FrontEnd` |
 | 2025-04-19 | Completed sorting algorithms from strivers DSA course| `DSA_Practice/StriversDSA/`|
 | 2025-04-21 | Completed a Gen-AI project - Mental Health Assistant | `My-GenAICapstoneProject/` |
+| 2025-04-21 | Done 5 dsa-problems on array (brute-better-optimal)  | `DSA_Practice/StriversDSA/`|
+| 2025-04-21 | Done 2 more problems, added all Time-Space-Complexity| `DSA_Practice/StriversDSA/`|
+| 2025-04-23 | Done array rotation problems with thought process    | `DSA_Practice/StriversDSA/`|
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
@@ -79,21 +82,21 @@ Each folder is structured to grow over time as I continue learning.
 
 |Objective                 | Progress 
 |--------------------------|--------------------------------------------|
-|📑 Strivers DSA Course    | 🟡⚪⚪⚪⚪⚪⚪ (1/12 Hours this week)  |
+|📑 Strivers DSA Course    | 🟢🟡⚪⚪⚪⚪⚪ (1/10 Hours this week)  |
 |🧠 DSA Problem Solving    | 🟢🟢🟡⚪⚪⚪⚪(2/7 Days this week)     |
-|📕 DBMS/CN Study          | 🟡⚪⚪⚪⚪⚪⚪(1/10 Hour this Week)    |
+|📕 DBMS/CN Study          | 🟢🟢🟡⚪⚪⚪⚪(2/10 Hour this Week)    |
 |🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(1/10 Hour this Week)    |
-|📁 GitHub Daily logs      | 🟢🟡⚪⚪⚪⚪⚪ (3/14 Commits this week)|
+|📁 GitHub Daily logs      | 🟢🟢🟡⚪⚪⚪⚪ (4/14 Commits this week)|
 
 ```Yearly Goals :-```
 
 🧮 Solve 100+ DSA problems  | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (21% Completed)
 ----------------------------|-------------------------------------------
 
-📝 Write 200+ learning logs  | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (7% Completed)
+📝 Write 200+ learning logs  | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (8.5% Completed)
 -----------------------------|-------------------------------------------
 
-🧑🏻‍💻 Build 5+ projects        | 🟢🟢🟡⚪⚪⚪⚪⚪⚪⚪ (20% Completed)
+🧑🏻‍💻 Build 5+ projects        | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (20% Completed)
 ----------------------------|-------------------------------------------
 
 🤖 B̶u̶i̶l̶d̶ a̶ G̶e̶n̶A̶I̶ C̶a̶p̶s̶t̶o̶n̶e̶ P̶r̶o̶j̶e̶c̶t̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)

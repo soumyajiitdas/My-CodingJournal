@@ -1,7 +1,7 @@
 ## right rotate (last comes to first) an array by d places:
 
 ## Brute-force approach:
-def brute_right_rotate(arr, d):       # TC - O(n+d), SC - O(d)
+def brute_rightRotate(arr, d):       # TC - O(n+d), SC - O(d)
     n = len(arr)
     if  n < d:
         d = d % n
@@ -14,7 +14,7 @@ def brute_right_rotate(arr, d):       # TC - O(n+d), SC - O(d)
         for i in range(d):
             arr[i] = temp[i]
 
-def right_rotate(arr, d):                # TC - O(2n), SC - O(1)
+def rightRotate(arr, d):                # TC - O(2n), SC - O(1)
     n = len(arr)
     if  n < d:
         d = d % n
@@ -23,11 +23,7 @@ def right_rotate(arr, d):                # TC - O(2n), SC - O(1)
         arr[d+1:] = arr[d+1:][::-1]
         arr[:] = arr[:][::-1]
 
-
-
-
-
 arr = list(map(int, input("Enter an array: ").split()))
 d = int(input("Enter a num to rotate: "))
-right_rotate(arr, 3)
+rightRotate(arr, 3)
 print(arr)

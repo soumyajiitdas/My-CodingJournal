@@ -1,7 +1,7 @@
 ## left rotate (first goes to last) an array by d places:
 
 ## Brute-force approach:
-def brute_left_rotate(arr, d):       # TC - O(n+d), SC - O(d)
+def brute_leftRotate(arr, d):       # TC - O(n+d), SC - O(d)
     n = len(arr)
     if  n < d:
         d = d % n
@@ -15,7 +15,7 @@ def brute_left_rotate(arr, d):       # TC - O(n+d), SC - O(d)
             arr[i] = temp[i-(n-d)]
 
 ## Optimal approach:
-def left_rotate(arr, d):             # TC - O(2n), SC - O(1)
+def leftRotate(arr, d):             # TC - O(2n), SC - O(1)
     n = len(arr)
     if  n < d:
         d = d % n
@@ -26,5 +26,5 @@ def left_rotate(arr, d):             # TC - O(2n), SC - O(1)
 
 arr = list(map(int, input("Enter an array: ").split()))
 d = int(input("Enter a num to rotate: "))
-left_rotate(arr, 3)
+leftRotate(arr, 3)
 print(arr)
