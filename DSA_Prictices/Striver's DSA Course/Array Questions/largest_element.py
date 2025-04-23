@@ -14,5 +14,5 @@ def largest_element(arr):
             largest = i
     return largest
 
-arr = list(map(int, input("Enter the array: ").split()))
+arr = list(map(int, input("Enter an array: ").split()))
 print (largest_element(arr))

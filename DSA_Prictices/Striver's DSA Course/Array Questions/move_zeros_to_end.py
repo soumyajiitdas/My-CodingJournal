@@ -28,6 +28,6 @@ def move_zeros(arr):     # TC - O(n), SC - O(1)
             arr[i], arr[j] = arr[j], arr[i]
             j += 1
 
-arr = list(map(int, input("Enter the array: ").split()))
+arr = list(map(int, input("Enter an array: ").split()))
 move_zeros(arr)
 print(arr)

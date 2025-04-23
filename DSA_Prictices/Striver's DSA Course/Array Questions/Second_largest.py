@@ -33,6 +33,6 @@ def second_largest(arr):                                              # TC - O(n
     return second_largest_element
 
 
-arr = list(map(int, input("Enter the array: ").split()))
+arr = list(map(int, input("Enter an array: ").split()))
 # array = [28,48,58,63,26,68]
 print (second_largest(arr))

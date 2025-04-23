@@ -6,7 +6,7 @@ def linearSearch(arr, key):     # TC - O(n), SC - O(1)
             return i
     return -1
 
-arr = list(map(int, input("Enter the array: ").split()))
-key = int(input("Enter the key: "))
+arr = list(map(int, input("Enter an array: ").split()))
+key = int(input("Enter a num to search: "))
 x = linearSearch(arr, key)
 print(x)

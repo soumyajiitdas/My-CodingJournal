@@ -80,9 +80,9 @@ Each folder is structured to grow over time as I continue learning.
 |Objective                 | Progress 
 |--------------------------|--------------------------------------------|
 |📑 Strivers DSA Course    | 🟡⚪⚪⚪⚪⚪⚪ (1/12 Hours this week)  |
-|🧠 DSA Problem Solving    | 🟡⚪⚪⚪⚪⚪⚪(1.5/7 Days this week)     |
-|📕 DBMS/CN Study          | 🟡⚪⚪⚪⚪⚪⚪(0/10 Hour this Week)    |
-|🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(0/10 Hour this Week)    |
+|🧠 DSA Problem Solving    | 🟢🟢🟡⚪⚪⚪⚪(2/7 Days this week)     |
+|📕 DBMS/CN Study          | 🟡⚪⚪⚪⚪⚪⚪(1/10 Hour this Week)    |
+|🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(1/10 Hour this Week)    |
 |📁 GitHub Daily logs      | 🟢🟡⚪⚪⚪⚪⚪ (3/14 Commits this week)|
 
 ```Yearly Goals :-```
