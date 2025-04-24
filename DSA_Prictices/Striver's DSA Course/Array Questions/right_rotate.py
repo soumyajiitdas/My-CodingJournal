@@ -16,14 +16,14 @@ def brute_rightRotate(arr, d):       # TC - O(n+d), SC - O(d)
 
 def rightRotate(arr, d):                # TC - O(2n), SC - O(1)
     n = len(arr)
-    if  n < d:
-        d = d % n
-    if d != n or d > 0:
-        arr[:d+1] = arr[:d+1][::-1]
-        arr[d+1:] = arr[d+1:][::-1]
-        arr[:] = arr[:][::-1]
+    d = d % n  # Handle d > n
+    if d == 0:
+        return
+    arr[n-d:] = arr[n-d:][::-1]
+    arr[:n-d] = arr[:n-d][::-1]
+    arr[:] = arr[:][::-1]
 
 arr = list(map(int, input("Enter an array: ").split()))
 d = int(input("Enter a num to rotate: "))
-rightRotate(arr, 3)
+rightRotate(arr, d)
 print(arr)

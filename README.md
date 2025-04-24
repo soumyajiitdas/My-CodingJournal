@@ -72,6 +72,7 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-21 | Done 5 dsa-problems on array (brute-better-optimal)  | `DSA_Practice/StriversDSA/`|
 | 2025-04-21 | Done 2 more problems, added all Time-Space-Complexity| `DSA_Practice/StriversDSA/`|
 | 2025-04-23 | Done array rotation problems with thought process    | `DSA_Practice/StriversDSA/`|
+| 2025-04-24 | Done two array problems in optimal way, added TC & SC| `DSA_Practice/StriversDSA/`|
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
@@ -82,11 +83,11 @@ Each folder is structured to grow over time as I continue learning.
 
 |Objective                 | Progress 
 |--------------------------|--------------------------------------------|
-|📑 Strivers DSA Course    | 🟢🟡⚪⚪⚪⚪⚪ (1/10 Hours this week)  |
-|🧠 DSA Problem Solving    | 🟢🟢🟡⚪⚪⚪⚪(2/7 Days this week)     |
-|📕 DBMS/CN Study          | 🟢🟢🟡⚪⚪⚪⚪(2/10 Hour this Week)    |
-|🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(1/10 Hour this Week)    |
-|📁 GitHub Daily logs      | 🟢🟢🟡⚪⚪⚪⚪ (4/14 Commits this week)|
+|📑 Strivers DSA Course    | 🟢🟢🟡⚪⚪⚪⚪ (2/7 Hours this week)   |
+|🧠 DSA Problem Solving    | 🟢🟢🟢🟢🟡⚪⚪(4/7 Days this week)     |
+|📕 DBMS/CN Study          | 🟢🟢🟢🟡⚪⚪⚪(3/7 Hour this Week)     |
+|🔗 Explore Full Stack Dev | 🟡⚪⚪⚪⚪⚪⚪(1/7 Hour this Week)     |
+|📁 GitHub Daily logs      | 🟢🟢🟢🟡⚪⚪⚪ (5/14 Commits this week)|
 
 ```Yearly Goals :-```
 
