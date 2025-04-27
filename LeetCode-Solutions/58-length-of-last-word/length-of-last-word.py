@@ -1,12 +1,7 @@
 class Solution(object):
     def lengthOfLastWord(self, s):
-        string = s.rstrip()
-        
-        length = 0
-        i = len(string) - 1
+        s = s.strip()
+        length = len(s) - s.rfind(' ') - 1    # rfind(' ') returns last occerence index of ' '
 
-        while i >= 0 and string[i] != " ":
-            length += 1
-            i -= 1
-        return length 
+        return length
         
