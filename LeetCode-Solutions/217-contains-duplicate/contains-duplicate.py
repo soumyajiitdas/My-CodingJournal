@@ -4,13 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        hash_dict = {}
-        for i in nums:
-            if i in hash_dict:
-                hash_dict[i] += 1
-            else:
-                hash_dict[i] = 1
-            if hash_dict[i] > 1:
+        seen = set()
+        for num in nums:
+            if num in seen:
                 return True
+            seen.add(num)
         return False
         
