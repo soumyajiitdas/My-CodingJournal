@@ -73,6 +73,8 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-21 | Done 2 more problems, added all Time-Space-Complexity| `DSA_Practice/StriversDSA/`|
 | 2025-04-23 | Done array rotation problems with thought process    | `DSA_Practice/StriversDSA/`|
 | 2025-04-24 | Done two array problems in optimal way, added TC & SC| `DSA_Practice/StriversDSA/`|
+...
+|   `NULL`   |                    `NULL`                            |          `NULL`            |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
@@ -96,6 +98,9 @@ Each folder is structured to grow over time as I continue learning.
 
 📝 Write 200+ learning logs  | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (8.5% Completed)
 -----------------------------|-------------------------------------------
+
+🧑🏻‍💻 Clairvoyance : Hackthon project | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (10% Completed)
+------------------------------------|-------------------------------------------
 
 🧑🏻‍💻 Build 5+ projects        | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (20% Completed)
 ----------------------------|-------------------------------------------
