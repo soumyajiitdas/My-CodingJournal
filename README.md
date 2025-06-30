@@ -72,9 +72,11 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-04-21 | Done 2 more problems, added all Time-Space-Complexity   | `DSA_Practice/StriversDSA/`|
 | 2025-04-23 | Done array rotation problems with thought process       | `DSA_Practice/StriversDSA/`|
 | 2025-04-24 | Done two array problems in optimal way, added TC & SC   | `DSA_Practice/StriversDSA/`|
-| ...        |...                                                      | ...|
+| ...        |...                                                      | ...                        |
 | 2025-06-24 | Improved source code of my new project `Mark_MyGfG`     | `Markdown-MyGfG/`          |
-| 2025-06-24 | Fixed code and added `.exe` file in the project folder  | `Markdown-MyGfG/`          |
+| 2025-06-25 | Fixed code and added `.exe` file in the project folder  | `Markdown-MyGfG/`          |
+| 2025-06-29 | setup `backend` for `clairvyonce` hackaton project      | `Clairvyonce_prototype/`   |
+| 2025-06-30 | setup and upload `frontend`+`backend` for `clairvyonce` | `Clairvyonce_prototype/`   |
 |   `NULL`   |                    `NULL`                               |          `NULL`            |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
@@ -87,7 +89,7 @@ Each folder is structured to grow over time as I continue learning.
 |----------------------------|---------------------------------------------|
 |📑 Strivers DSA Course     | 🟡⚪⚪⚪⚪⚪⚪ (0/7 Hours this week)     |
 |🧠 DSA Problem Solving     | 🟡⚪⚪⚪⚪⚪⚪(0/7 Days this week)       |
-|📕 Working on Project      | 🟢🟢🟢🟡⚪⚪⚪(4/10 Hour this Week)      |
+|📕 Working on Project      | 🟢🟡⚪⚪⚪⚪⚪(2/10 Hour this Week)      |
 |🔗 Explore Full Stack Dev  | 🟢🟡⚪⚪⚪⚪⚪(1.5/7 Hour this Week)     |
 |📁 GitHub Daily logs       | 🟢🟡⚪⚪⚪⚪⚪ (2/14 Commits this week)  |
 
@@ -99,7 +101,7 @@ Each folder is structured to grow over time as I continue learning.
 📝 Write 200+ learning logs  | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (10% Completed)
 -----------------------------|-------------------------------------------
 
-🧑🏻‍💻 Clairvoyance : Hackthon project | 🟡⚪⚪⚪⚪⚪⚪⚪⚪⚪ (10% Completed)
+🧑🏻‍💻 Clairvoyance : Hackthon project | 🟢🟢🟢🟢🟡⚪⚪⚪⚪⚪ (40% Completed)
 ------------------------------------|-------------------------------------------
 
 🧮 Build 5+ projects        | 🟢🟢🟢🟢🟡⚪⚪⚪⚪⚪ (40% Completed)
