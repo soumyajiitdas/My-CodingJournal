@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-795548?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://wakatime.com/badge/github/soumyajiitdas/My-CodingJournal.svg" alt="time spent">
   <img src="https://img.shields.io/github/last-commit/soumyajiitdas/My-CodingJournal" />
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/soumyajiitdas/My-CodingJournal?style=social">
 </p>
@@ -89,9 +90,9 @@ Each folder is structured to grow over time as I continue learning.
 |----------------------------|---------------------------------------------|
 |📑 Strivers DSA Course     | 🟡⚪⚪⚪⚪⚪⚪ (0/7 Hours this week)     |
 |🧠 DSA Problem Solving     | 🟡⚪⚪⚪⚪⚪⚪(0/7 Days this week)       |
-|📕 Working on Project      | 🟢🟡⚪⚪⚪⚪⚪(2/10 Hour this Week)      |
-|🔗 Explore Full Stack Dev  | 🟢🟡⚪⚪⚪⚪⚪(1.5/7 Hour this Week)     |
-|📁 GitHub Daily logs       | 🟢🟡⚪⚪⚪⚪⚪ (2/14 Commits this week)  |
+|📕 Working on Project      | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)      |
+|🔗 Explore Full Stack Dev  | 🟢🟡⚪⚪⚪⚪⚪(2/7 Hour this Week)       |
+|📁 GitHub Daily logs       | 🟢🟡⚪⚪⚪⚪⚪ (1/14 Commits this week)  |
 
 ```Yearly Goals :-```
 
@@ -101,11 +102,14 @@ Each folder is structured to grow over time as I continue learning.
 📝 Write 200+ learning logs  | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (10% Completed)
 -----------------------------|-------------------------------------------
 
-🧑🏻‍💻 Clairvoyance : Hackthon project | 🟢🟢🟢🟢🟡⚪⚪⚪⚪⚪ (40% Completed)
+🧑🏻‍💻 Final Year project | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (5% Completed)
 ------------------------------------|-------------------------------------------
 
-🧮 Build 5+ projects        | 🟢🟢🟢🟢🟡⚪⚪⚪⚪⚪ (40% Completed)
+🧮 Build 5+ projects        | 🟢🟢🟢🟢🟢🟢🟡⚪⚪⚪ (65% Completed)
 ----------------------------|-------------------------------------------
+
+🧑🏻‍💻 C̶l̶a̶i̶r̶v̶o̶y̶a̶n̶c̶e̶ :̶ H̶a̶c̶k̶t̶h̶o̶n̶ p̶r̶o̶j̶e̶c̶t̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+------------------------------------|-------------------------------------------
 
 📑 B̶u̶i̶l̶d̶ a̶ G̶f̶G̶ P̶r̶o̶b̶ t̶o̶ M̶a̶r̶k̶d̶o̶w̶n̶ G̶e̶n̶e̶r̶a̶t̶o̶r̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
 ------------------------------------------|-------------------------------------------
@@ -117,7 +121,7 @@ Each folder is structured to grow over time as I continue learning.
 ----------------------------------------|--------------------------------------------
 
 
-## 🛠️ How to Use This Repo
+<!--- ## 🛠️ How to Use This Repo
 
 ### Cloning the Repo
 
@@ -139,7 +143,7 @@ touch stacks_queues.py
 git add stacks_queues.py
 git commit -m "Solved basic stack implementation problem"
 git push origin main
-```
+``` --->
 
 
 ## 🧠 Why This Journal?
@@ -154,14 +158,14 @@ This journal is not about perfection — it’s about showing up daily to get 1%
 - 💼 Builds a **strong public portfolio**
 
 
-## 💡 Things I’ll Include Over Time
+<!--- ## 💡 Things I’ll Include Over Time
 
 - ⏱️ Add GitHub Action to auto-log commits.
 - 📘 Notes on topics (e.g., OS, DBMS, CN).
 - 🧪 Project experiments (APIs, web, AI, etc.).
 - 📈 Progress trackers (e.g., LeetCode, GitHub Stats).
-- 📌 Learning challenges (30-day challenges, boot-camps).
-> “Tiny improvements daily lead to stunning results eventually.”
+- 📌 Learning challenges (30-day challenges, boot-camps). --->
+> “Tiny improvements daily lead to stunning results eventually.” 
 
 ## 🤓 Contribute or Collaborate?
 
