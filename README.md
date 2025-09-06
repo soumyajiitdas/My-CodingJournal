@@ -13,18 +13,25 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/soumyajiitdas/My-CodingJournal?style=social">
 </p>
 
-
 **📌 A personal coding log to document my journey through problem-solving, software projects, and lifelong learning in Computer Science.**
 > “Track the grind. Trust the process. Build the future.”
 
-## ✒️ About This Repository
 
-`My-CodingJournal` is a **daily code journal and learning vault** designed to track my personal growth in software development. This isn't just about solving problems — it's about building habits, reflecting on progress, and documenting everything that gets me closer to becoming a well-rounded developer.
+## ✒️ What This Repository Is
 
-Whether I'm diving into algorithms, building passion projects, taking notes from courses, or exploring ML and Web Dev — it's all here.
+This repository is my **personal coding journal** — a place where I document my entire learning journey as a Computer Science student and aspiring developer.
+
+It’s not just a dump of solved problems or random projects. It’s my **growth log** — where every commit tells a story:
+
+* A new concept mastered
+* A bug wrestled into submission
+* A late-night experiment that became a mini-project
+* A system I built today that my future self will thank me for
+
+This is my way of proving that **consistency beats intensity**, and small steps compound into big achievements.
 
 
-## 🗂️ Folder Structure
+## 🗂️ What's in the Folders
 
 ```
 My-CodingJournal/
@@ -49,6 +56,33 @@ My-CodingJournal/
 ```
 Each folder is structured to grow over time as I continue learning.
 
+
+## 🚀 Why I Built This
+
+I wanted a **central hub** that reflects not only what I know but also *how I learn*.
+
+* 📚 **For Myself** → To build habits, see my progress, and stay accountable
+* 💼 **For Recruiters** → A transparent track record of my problem-solving & projects
+* 🤝 **For Peers** → Inspiration to start their own coding journals
+
+It’s less of a portfolio, more of a **living diary of becoming a developer**.
+
+
+## 🧠 Philosophy
+
+This journal follows one guiding principle:
+
+> *“You don’t rise to the level of your goals. You fall to the level of your systems.” – James Clear*
+
+For me, that means:
+
+* **Systems over motivation** → I don’t rely on bursts of inspiration
+* **Reflection over perfection** → mistakes are logged, not hidden
+* **Consistency over intensity** → progress compounds daily
+
+This is why even my smallest commits matter — they represent the invisible 1% improvement that builds mastery.
+
+> “Tiny improvements daily lead to stunning results eventually.”
 
 ## 📅 Daily Log
 
@@ -78,13 +112,40 @@ Each folder is structured to grow over time as I continue learning.
 | 2025-06-25 | Fixed code and added `.exe` file in the project folder  | `Markdown-MyGfG/`          |
 | 2025-06-29 | setup `backend` for `clairvyonce` hackaton project      | `Clairvyonce_prototype/`   |
 | 2025-06-30 | setup and upload `frontend`+`backend` for `clairvyonce` | `Clairvyonce_prototype/`   |
+| 2025-07-02 | added api endpoints for image caption in `clairvyonce`  | `Clairvyonce_prototype/`   |
+| 2025-07-04 | made user interface changes/twigs in `clairvyonce`      | `Clairvyonce_prototype/`   |
+| 2025-07-05 | added documentation for `clairvyonce` project           | `Clairvyonce_prototype/`   |
+| 2025-07-21 | refactor, deleted unnecessary code for `clairvyonce`    | `Clairvyonce_prototype/`   |
+| 2025-07-22 | fixed/optimise the code of gtxt-to-speech and translate | `Clairvyonce_prototype/`   |
+| 2025-08-03 | improved ui and added extra features in `clairvyonce`   | `Clairvyonce_prototype/`   |
+| 2025-08-04 | added auto play, download audio features in `VisariaAI` | `VisariaAI-Img2Audio/`     |
+| 2025-08-06 | added animation, made ui responsive of `VisariaAI` proj.| `VisariaAI-Img2Audio/`     |
+| 2025-08-07 | added history section/page for recent activities        | `VisariaAI-Img2Audio/`     |
+| 2025-08-05 | added responsiveness in the ui in `clairvyonce` project | `Clairvyonce_prototype/`   |
+| 2025-08-10 | containerised`clairvyonce` with docker                  | `Clairvyonce_prototype/`   |
+| 2025-08-11 | deployed `VisariaAI` frontend and backend in Render     | `VisariaAI-Img2Audio/`     |
+| 2025-08-13 | fix the browser error to store history in `VisariaAI`   | `VisariaAI-Img2Audio/`     |
+| 2025-08-21 | created my portfolio website, deployment ready          | `Syntax-Constellation/`    |
+| 2025-08-23 | fixed frontend backend connection error in `VisariaAI`  | `VisariaAI-Img2Audio/`     |
+| 2025-08-24 | made major ui update, corrected data and stats          | `Syntax-Constellation/`    |
+| 2025-08-25 | optimize code, added alt. low end deep translate model  | `VisariaAI-Img2Audio/`     |
+| 2025-08-26 | improved animations, fix github activity grid scroll    | `Syntax-Constellation/`    |
+| 2025-08-28 | started my internship side project `CareHive-Clinic`    | `CareHive-Clinic/backend`  |
+| 2025-08-30 | added time of code stats using wakatime api             | `Syntax-Constellation/`    |
+| 2025-09-01 | fixed wakatime api for correct data, fix contact form   | `Syntax-Constellation/`    |
+| 2025-09-02 | added small animation to ui elements, changed ui colors | `Syntax-Constellation/`    |
+| 2025-09-03 | added theme system, 3 dark and 3 light themes added     | `Syntax-Constellation/`    |
+| 2025-09-04 | connected mongodb, made pages/components in frontend    | `CareHive-Clinic/frontend` |
+| 2025-09-04 | frontend routing done-pages are saperated, changed ui   | `CareHive-Clinic/frontend` |
 |   `NULL`   |                    `NULL`                               |          `NULL`            |
 
 > 🔁 I will keep this table updated — it's my trail of consistency.
 
 
 ## 🎯 Goals & Milestones
-```Weekly Milestones:-```
+This repo doubles as my **accountability dashboard**.
+
+<!-- ```Weekly Milestones:-```
 
 |Objective                   | Progress                                    |
 |----------------------------|---------------------------------------------|
@@ -92,7 +153,7 @@ Each folder is structured to grow over time as I continue learning.
 |🧠 DSA Problem Solving     | 🟡⚪⚪⚪⚪⚪⚪(0/7 Days this week)       |
 |📕 Working on Project      | 🟢🟡⚪⚪⚪⚪⚪(3/10 Hour this Week)      |
 |🔗 Explore Full Stack Dev  | 🟢🟡⚪⚪⚪⚪⚪(2/7 Hour this Week)       |
-|📁 GitHub Daily logs       | 🟢🟡⚪⚪⚪⚪⚪ (1/14 Commits this week)  |
+|📁 GitHub Daily logs       | 🟢🟡⚪⚪⚪⚪⚪ (1/14 Commits this week)  | -->
 
 ```Yearly Goals :-```
 
@@ -102,77 +163,48 @@ Each folder is structured to grow over time as I continue learning.
 📝 Write 200+ learning logs  | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (10% Completed)
 -----------------------------|-------------------------------------------
 
-🧑🏻‍💻 Final Year project | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (5% Completed)
+⁉️ Final Year project | 🟢🟡⚪⚪⚪⚪⚪⚪⚪⚪ (5% Completed)
 ------------------------------------|-------------------------------------------
 
 🧮 Build 5+ projects        | 🟢🟢🟢🟢🟢🟢🟡⚪⚪⚪ (65% Completed)
 ----------------------------|-------------------------------------------
 
-🧑🏻‍💻 C̶l̶a̶i̶r̶v̶o̶y̶a̶n̶c̶e̶ :̶ H̶a̶c̶k̶t̶h̶o̶n̶ p̶r̶o̶j̶e̶c̶t̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+🧑🏻‍💻 ~~Build My Portfolio Website~~ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
 ------------------------------------|-------------------------------------------
 
-📑 B̶u̶i̶l̶d̶ a̶ G̶f̶G̶ P̶r̶o̶b̶ t̶o̶ M̶a̶r̶k̶d̶o̶w̶n̶ G̶e̶n̶e̶r̶a̶t̶o̶r̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+😎 ~~Complete Clairvoyance: A Hacathon Project~~ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+------------------------------------|-------------------------------------------
+
+📑 ~~Build a Markdown Creator Tool~~ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
 ------------------------------------------|-------------------------------------------
 
-🤖 B̶u̶i̶l̶d̶ a̶ G̶e̶n̶A̶I̶ C̶a̶p̶s̶t̶o̶n̶e̶ P̶r̶o̶j̶e̶c̶t̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+🤖 ~~Build a GenAI Capstone Project~~ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
 ----------------------------------|--------------------------------------------
 
-📒 C̶r̶e̶a̶t̶e̶ ̶t̶h̶i̶s̶ ̶C̶o̶d̶i̶n̶g̶ ̶J̶o̶u̶r̶n̶a̶l̶ ̶o̶n̶ ̶G̶i̶t̶H̶u̶b̶ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
+📒 ~~Create this Coding Journal on Github~~ | 🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣 (✅ Completed)
 ----------------------------------------|--------------------------------------------
 
+I measure success not by “big wins,” but by how often I show up and improve my system.
 
-<!--- ## 🛠️ How to Use This Repo
+## 🤓 Collaboration & Contribution
 
-### Cloning the Repo
+This repo isn’t designed for contributions in the traditional sense — but I welcome:
 
-```bash
-git clone https://github.com/your-username/My-CodingJournal.git
-cd My-CodingJournal
-```
+* Suggestions on better structuring or documenting
+* Issues to discuss learning workflows
+* Sharing your own version of a coding journal
 
-### Example DSA Workflow
-
-```bash
-# Navigate to the DSA folder
-cd DSA
-
-# Create a new file to solve a problem
-touch stacks_queues.py
-
-# Stage → Commit → Push
-git add stacks_queues.py
-git commit -m "Solved basic stack implementation problem"
-git push origin main
-``` --->
+I’m a big believer in **learning in public**. The more we share our struggles and processes, the stronger we grow as a community.
 
 
-## 🧠 Why This Journal?
+## 📝 Closing Note
 
-This journal is not about perfection — it’s about showing up daily to get 1% better.
+At its heart, `My-CodingJournal` isn’t just about **what I’ve learned**.
+It’s about **who I’m becoming through learning**.
 
-> “You won’t rise to the level of your goals. You’ll fall to the level of your systems.” – James Clear
+Every file, every note, every project here is a breadcrumb along the path.
 
-- ✅ Keeps me **disciplined**
-- 📈 Visual proof of **growth**
-- 🧰 Central repo for **notes, code & logs**
-- 💼 Builds a **strong public portfolio**
-
-
-<!--- ## 💡 Things I’ll Include Over Time
-
-- ⏱️ Add GitHub Action to auto-log commits.
-- 📘 Notes on topics (e.g., OS, DBMS, CN).
-- 🧪 Project experiments (APIs, web, AI, etc.).
-- 📈 Progress trackers (e.g., LeetCode, GitHub Stats).
-- 📌 Learning challenges (30-day challenges, boot-camps). --->
-> “Tiny improvements daily lead to stunning results eventually.” 
-
-## 🤓 Contribute or Collaborate?
-
-This repo is personal, but open for learning and collaboration!
-Feel free to fork it to start your own coding journal — just make it **yours** 
-- You can open issues, or share how you’re documenting your own coding progress.
-> This repository is shared for educational purposes under [MIT License](LICENSE).
+---
 
 <p align="center"><strong>Built with consistency, curiosity, and code❣️</strong></p>
 
