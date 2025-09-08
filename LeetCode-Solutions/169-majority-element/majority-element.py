@@ -4,12 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        target, count = None, 0
+        n = len(nums)
+        hash_dict = {}
 
-        for num in nums:
-            if count == 0:
-                target = num
-            count += (1 if num == target else -1)
-
-        return target
+        for i in range(n):
+            if nums[i] in hash_dict:
+                hash_dict[nums[i]] += 1
+            else:
+                hash_dict[nums[i]] = 1
+        
+        for i in hash_dict:
+            if hash_dict[i] > n//2:
+                return i
         
