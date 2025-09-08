@@ -5,15 +5,16 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        hash_dict = {}
-
+        cnt = el = 0
         for i in range(n):
-            if nums[i] in hash_dict:
-                hash_dict[nums[i]] += 1
-            else:
-                hash_dict[nums[i]] = 1
+            if cnt == 0:
+                el = nums[i]
+                cnt = 1
+            elif nums[i] == el:
+                cnt += 1
+            else: 
+                cnt -= 1
         
-        for i in hash_dict:
-            if hash_dict[i] > n//2:
-                return i
+        return el
+
         
